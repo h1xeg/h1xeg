@@ -1,5 +1,4 @@
-# Hello
-# My name is Pavel
+# Hello, my name is Pavel
 
 <!--
 **h1xeg/h1xeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
