@@ -13,3 +13,4 @@
 # Databases
 * Sqlite
 * MongoDB
+* PostgreSQL
