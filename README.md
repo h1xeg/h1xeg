@@ -8,10 +8,10 @@
 * Python
 * JavaScript
 * Lua
+* Markdown
 * SQL
 * HTML
 * CSS
-* MARKDOWN
 
 # Databases
 * Sqlite
