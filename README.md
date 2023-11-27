@@ -14,3 +14,13 @@
 * Sqlite
 * MongoDB
 * PostgreSQL
+
+# Tools
+* VsCode
+* SublimeText
+* Git
+* Arduino IDE
+* Termius
+* DBeaver
+* Postman
+* FileZilla
