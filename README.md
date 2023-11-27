@@ -32,5 +32,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h1xeg&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # Social
-VK: vk.com/dmitrylats
-TG: t.me/rifost
+VK: https://vk.com/dmitrylats  
+TG: https://t.me/rifost
