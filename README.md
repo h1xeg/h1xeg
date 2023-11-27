@@ -5,3 +5,11 @@
 
 # Languages
 * Python
+* SQL
+* HTML
+* CSS
+* MARKDOWN
+
+# Databases
+* Sqlite
+* MongoDB
