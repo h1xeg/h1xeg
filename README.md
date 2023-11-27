@@ -6,6 +6,7 @@
 
 # Languages
 * Python
+* JavaScript
 * SQL
 * HTML
 * CSS
