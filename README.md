@@ -28,6 +28,7 @@
 * FileZilla
 
 # Statistic
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h1xeg&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h1xeg&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 # Social
