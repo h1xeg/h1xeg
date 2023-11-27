@@ -7,6 +7,7 @@
 # Languages
 * Python
 * JavaScript
+* Lua
 * SQL
 * HTML
 * CSS
