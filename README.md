@@ -1,4 +1,7 @@
 # Hi, I'm Pavel
+* I from Russia
+* I love python
+* I want to become a backend developer
 
 <!--
 **h1xeg/h1xeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
