@@ -2,7 +2,6 @@
 * I'm Pavel
 * 15 Years old
 * I from Russia
-* I want to become a backend developer
 
 # Languages
 * Python
