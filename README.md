@@ -16,6 +16,7 @@
 * Sqlite
 * MongoDB
 * PostgreSQL
+* MySQL
 
 # Tools
 * VsCode
