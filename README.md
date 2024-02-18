@@ -5,6 +5,7 @@
 
 # Languages
 * Python
+* Go
 * JavaScript
 * Lua
 * Markdown
@@ -14,7 +15,6 @@
 
 # Databases
 * Sqlite
-* MongoDB
 * PostgreSQL
 * MySQL
 
